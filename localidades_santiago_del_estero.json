@@ -1,0 +1,428 @@
+[
+    {
+        "name": "Añatuya",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Árraga",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Bandera",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Bandera Bajada",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Beltrán",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Brea Pozo",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Campo Gallo",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Chilca Juliana",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Choya",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Clodomira",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Col. Alpina",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Col. Dora",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Col. El Simbolar Robles",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "El Bobadal",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "El Charco",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "El Mojón",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Estación Atamisqui",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Estación Simbolar",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Fernández",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Fortín Inca",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Frías",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Garza",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Gramilla",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Guardia Escolta",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Herrera",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Icaño",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Ing. Forres",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "La Banda",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "La Cañada",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Laprida",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Lavalle",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Loreto",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Los Juríes",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Los Núñez",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Los Pirpintos",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Los Quiroga",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Los Telares",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Lugones",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Malbrán",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Matara",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Medellín",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Monte Quemado",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Nueva Esperanza",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Nueva Francia",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Palo Negro",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Pampa de Los Guanacos",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Pinto",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Pozo Hondo",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Quimilí",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Real Sayana",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Sachayoj",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "San Pedro de Guasayán",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Selva",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Sol de Julio",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Sumampa",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Suncho Corral",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Taboada",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Tapso",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Termas de Rio Hondo",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Tintina",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Tomas Young",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Vilelas",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa Atamisqui",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa La Punta",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa Ojo de Agua",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa Río Hondo",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa Salavina",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Villa Unión",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Vilmer",
+        "provincia": {
+            "id": 23
+        }
+    },
+    {
+        "name": "Weisburd",
+        "provincia": {
+            "id": 23
+        }
+    }
+]

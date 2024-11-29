@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Arauco",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Castro Barros",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Chamical",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Chilecito",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Coronel F. Varela",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Famatina",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. A.V.Peñaloza",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. Belgrano",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. J.F. Quiroga",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. Lamadrid",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. Ocampo",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Gral. San Martín",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Independencia",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Rosario Penaloza",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "San Blas de Los Sauces",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Sanagasta",
+        "provincia": {
+            "id": 13
+        }
+    },
+    {
+        "name": "Vinchina",
+        "provincia": {
+            "id": 13
+        }
+    }
+]

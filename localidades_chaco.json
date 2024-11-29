@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Aviá Teraí",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Barranqueras",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Basail",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Campo Largo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Capitán Solari",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Charadai",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Charata",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Chorotis",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Ciervo Petiso",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Cnel. Du Graty",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Col. Benítez",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Col. Elisa",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Col. Popular",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Colonias Unidas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Concepción",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Corzuela",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Cote Lai",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "El Sauzalito",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Enrique Urien",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Fontana",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Fte. Esperanza",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Gancedo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Gral. Capdevila",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Gral. Pinero",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Gral. San Martín",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Gral. Vedia",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Hermoso Campo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "I. del Cerrito",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "J.J. Castelli",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Clotilde",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Eduvigis",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Escondida",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Leonesa",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Tigra",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "La Verde",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Laguna Blanca",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Laguna Limpia",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Lapachito",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Las Breñas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Las Garcitas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Las Palmas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Los Frentones",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Machagai",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Makallé",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Margarita Belén",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Miraflores",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Misión N. Pompeya",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Napenay",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pampa Almirón",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pampa del Indio",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pampa del Infierno",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pdcia. de La Plaza",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pdcia. Roca",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pdcia. Roque Sáenz Peña",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pto. Bermejo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Pto. Eva Perón",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Puero Tirol",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Puerto Vilelas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Quitilipi",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Resistencia",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Sáenz Peña",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Samuhú",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "San Bernardo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Santa Sylvina",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Taco Pozo",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Tres Isletas",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Villa Ángela",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Villa Berthet",
+        "provincia": {
+            "id": 5
+        }
+    },
+    {
+        "name": "Villa R. Bermejito",
+        "provincia": {
+            "id": 5
+        }
+    }
+]

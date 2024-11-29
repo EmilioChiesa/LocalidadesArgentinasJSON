@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Aguada Cecilio",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Aguada de Guerra",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Allén",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Arroyo de La Ventana",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Arroyo Los Berros",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Bariloche",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Calte. Cordero",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Campo Grande",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Catriel",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cerro Policía",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cervantes",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Chelforo",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Chimpay",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Chinchinales",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Chipauquil",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Choele Choel",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cinco Saltos",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cipolletti",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Clemente Onelli",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Colán Conhue",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Comallo",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Comicó",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cona Niyeu",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Coronel Belisle",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Cubanea",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Darwin",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Dina Huapi",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "El Bolsón",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "El Caín",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "El Manso",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Gral. Conesa",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Gral. Enrique Godoy",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Gral. Fernandez Oro",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Gral. Roca",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Guardia Mitre",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Ing. Huergo",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Ing. Jacobacci",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Laguna Blanca",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Lamarque",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Las Grutas",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Los Menucos",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Luis Beltrán",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Mainqué",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Mamuel Choique",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Maquinchao",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Mencué",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Mtro. Ramos Mexia",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Nahuel Niyeu",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Naupa Huen",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Ñorquinco",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Ojos de Agua",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Paso de Agua",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Paso Flores",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Peñas Blancas",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Pichi Mahuida",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Pilcaniyeu",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Pomona",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Prahuaniyeu",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Rincón Treneta",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Río Chico",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Río Colorado",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Roca",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "San Antonio Oeste",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "San Javier",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Sierra Colorada",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Sierra Grande",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Sierra Pailemán",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Valcheta",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Valle Azul",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Viedma",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Villa Llanquín",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Villa Mascardi",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Villa Regina",
+        "provincia": {
+            "id": 17
+        }
+    },
+    {
+        "name": "Yaminué",
+        "provincia": {
+            "id": 17
+        }
+    }
+]

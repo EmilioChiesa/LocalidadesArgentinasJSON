@@ -1,0 +1,854 @@
+[
+  {
+    "name": "25 de Mayo",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "3 de febrero",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "A. Alsina",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "A. Gonzáles Cháves",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Aguas Verdes",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Alberti",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Arrecifes",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Ayacucho",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Azul",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Bahía Blanca",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Balcarce",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Baradero",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Benito Juárez",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Berisso",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Bolívar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Bragado",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Brandsen",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Campana",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Cañuelas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Capilla del Señor",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Capitán Sarmiento",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carapachay",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carhue",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Cariló",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carlos Casares",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carlos Tejedor",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carmen de Areco",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Carmen de Patagones",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Castelli",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Chacabuco",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Chascomús",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Chivilcoy",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Colón",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Coronel Dorrego",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Coronel Pringles",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Coronel Rosales",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Coronel Suarez",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Costa Azul",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Costa Chica",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Costa del Este",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Costa Esmeralda",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Daireaux",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Darregueira",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Del Viso",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Dolores",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Don Torcuato",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Ensenada",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Escobar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Exaltación de la Cruz",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Florentino Ameghino",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Garín",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Alvarado",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Alvear",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Arenales",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Belgrano",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Guido",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Lamadrid",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Las Heras",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Lavalle",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Madariaga",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Pacheco",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Paz",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Pinto",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Pueyrredón",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Rodríguez",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Viamonte",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Gral. Villegas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Guaminí",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Guernica",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Hipólito Yrigoyen",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Ing. Maschwitz",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Junín",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "La Plata",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Laprida",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Las Flores",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Las Toninas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Leandro N. Alem",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Lincoln",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Loberia",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Lobos",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Los Cardales",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Los Toldos",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Lucila del Mar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Luján",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Magdalena",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Maipú",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mar Chiquita",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mar de Ajó",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mar de las Pampas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mar del Plata",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mar del Tuyú",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Marcos Paz",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Mercedes",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Miramar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Monte",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Monte Hermoso",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Munro",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Navarro",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Necochea",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Olavarría",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Partido de la Costa",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pehuajó",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pellegrini",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pergamino",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pigüé",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pila",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pilar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pinamar",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pinar del Sol",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Polvorines",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Pte. Perón",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Puán",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Punta Indio",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Ramallo",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Rauch",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Rivadavia",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Rojas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Roque Pérez",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Saavedra",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Saladillo",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Salliqueló",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Salto",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Andrés de Giles",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Antonio de Areco",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Antonio de Padua",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Bernardo",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Cayetano",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Clemente del Tuyú",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Nicolás",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Pedro",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "San Vicente",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Santa Teresita",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Suipacha",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Tandil",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Tapalqué",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Tordillo",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Tornquist",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Trenque Lauquen",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Tres Lomas",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Villa Gesell",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Villarino",
+    "provincia": {
+      "id": 1
+    }
+  },
+  {
+    "name": "Zárate",
+    "provincia": {
+      "id": 1
+    }
+  }
+]

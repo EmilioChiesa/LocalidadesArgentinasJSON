@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Alto Pelado",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Alto Pencoso",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Anchorena",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Arizona",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Bagual",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Balde",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Batavia",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Beazley",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Buena Esperanza",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Candelaria",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Carolina",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Carpintería",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Concarán",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Cortaderas",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "El Morro",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "El Trapiche",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "El Volcán",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Fortín El Patria",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Fortuna",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Fraga",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Juan Jorba",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Juan Llerena",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Juana Koslay",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Justo Daract",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "La Calera",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "La Florida",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "La Punilla",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "La Toma",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Lafinur",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Las Aguadas",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Las Chacras",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Las Lagunas",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Las Vertientes",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Lavaisse",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Leandro N. Alem",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Los Molles",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Luján",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Mercedes",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Merlo",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Naschel",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Navia",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Nogolí",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Nueva Galia",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Papagayos",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Paso Grande",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Potrero de Los Funes",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Quines",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Renca",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Saladillo",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "San Francisco",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "San Gerónimo",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "San Martín",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "San Pablo",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Santa Rosa de Conlara",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Talita",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Tilisarao",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Unión",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa de La Quebrada",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa de Praga",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa del Carmen",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa Gral. Roca",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa Larca",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Villa Mercedes",
+        "provincia": {
+            "id": 20
+        }
+    },
+    {
+        "name": "Zanjitas",
+        "provincia": {
+            "id": 20
+        }
+    }
+]

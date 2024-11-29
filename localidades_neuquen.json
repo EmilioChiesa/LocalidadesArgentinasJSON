@@ -1,0 +1,344 @@
+[
+    {
+        "name": "Aguada San Roque",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Aluminé",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Andacollo",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Añelo",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Bajada del Agrio",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Barrancas",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Buta Ranquil",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Caviahué",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Centenario",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Chorriaca",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Chos Malal",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Cipolletti",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Covunco Abajo",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Coyuco Cochico",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Cutral Có",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "El Cholar",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "El Huecú",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "El Sauce",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Guañacos",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Huinganco",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Las Coloradas",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Las Lajas",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Las Ovejas",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Loncopué",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Los Catutos",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Los Chihuidos",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Los Miches",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Manzano Amargo",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "16",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Octavio Pico",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Paso Aguerre",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Picún Leufú",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Piedra del Aguila",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Pilo Lil",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Plaza Huincul",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Plottier",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Quili Malal",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Ramón Castro",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Rincón de Los Sauces",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "San Martín de Los Andes",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "San Patricio del Chañar",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Santo Tomás",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Sauzal Bonito",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Senillosa",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Taquimilán",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Tricao Malal",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Varvarco",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa Curí Leuvu",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa del Nahueve",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa del Puente Picún Leuvú",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa El Chocón",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa La Angostura",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa Pehuenia",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Villa Traful",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Vista Alegre",
+        "provincia": {
+            "id": 16
+        }
+    },
+    {
+        "name": "Zapala",
+        "provincia": {
+            "id": 16
+        }
+    }
+]

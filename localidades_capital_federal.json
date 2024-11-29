@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Agronomía",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Almagro",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Balvanera",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Barracas",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Belgrano",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Boca",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Boedo",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Caballito",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Chacarita",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Coghlan",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Colegiales",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Constitución",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Flores",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Floresta",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "La Paternal",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Liniers",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Mataderos",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Monserrat",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Monte Castro",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Nueva Pompeya",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Núñez",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Palermo",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Parque Avellaneda",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Parque Chacabuco",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Parque Chas",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Parque Patricios",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Puerto Madero",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Recoleta",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Retiro",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Saavedra",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "San Cristóbal",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "San Nicolás",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "San Telmo",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Vélez Sársfield",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Versalles",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Crespo",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa del Parque",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Devoto",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Gral. Mitre",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Lugano",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Luro",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Ortúzar",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Pueyrredón",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Real",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Riachuelo",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Santa Rita",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Soldati",
+        "provincia": {
+            "id": 3
+        }
+    },
+    {
+        "name": "Villa Urquiza",
+        "provincia": {
+            "id": 3
+        }
+    }
+]

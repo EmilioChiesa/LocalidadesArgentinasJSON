@@ -1,0 +1,374 @@
+[
+    {
+        "name": "A. Saravia",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Aguaray",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Angastaco",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Animaná",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Cachi",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Cafayate",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Campo Quijano",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Campo Santo",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Capital",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Cerrillos",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Chicoana",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Col. Sta. Rosa",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Coronel Moldes",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Bordo",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Carril",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Galpón",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Jardín",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Potrero",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Quebrachal",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "El Tala",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Embarcación",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Gral. Ballivian",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Gral. Güemes",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Gral. Mosconi",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Gral. Pizarro",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Guachipas",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Hipólito Yrigoyen",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Iruyá",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Isla De Cañas",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "J. V. Gonzalez",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "La Caldera",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "La Candelaria",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "La Merced",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "La Poma",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "La Viña",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Las Lajitas",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Los Toldos",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Metán",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Molinos",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Nazareno",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Orán",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Payogasta",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Pichanal",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Prof. S. Mazza",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Río Piedras",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Rivadavia Banda Norte",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Rivadavia Banda Sur",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Rosario de La Frontera",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Rosario de Lerma",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Saclantás",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "18",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "San Antonio",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "San Carlos",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "San José De Metán",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "San Ramón",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Santa Victoria E.",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Santa Victoria O.",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Tartagal",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Tolar Grande",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Urundel",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Vaqueros",
+        "provincia": {
+            "id": 18
+        }
+    },
+    {
+        "name": "Villa San Lorenzo",
+        "provincia": {
+            "id": 18
+        }
+    }
+]

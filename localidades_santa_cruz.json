@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Calafate",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Caleta Olivia",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Cañadón Seco",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Comandante Piedrabuena",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "El Calafate",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "El Chaltén",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Gdor. Gregores",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Hipólito Yrigoyen",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Jaramillo",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Koluel Kaike",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Las Heras",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Los Antiguos",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Perito Moreno",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Pico Truncado",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Pto. Deseado",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Pto. San Julián",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Pto. 21",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Río Cuarto",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Río Gallegos",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Río Turbio",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Tres Lagos",
+        "provincia": {
+            "id": 21
+        }
+    },
+    {
+        "name": "Veintiocho De Noviembre",
+        "provincia": {
+            "id": 21
+        }
+    }
+]

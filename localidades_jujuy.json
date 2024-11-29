@@ -1,0 +1,374 @@
+[
+    {
+        "name": "Abdon Castro Tolay",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Abra Pampa",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Abralaite",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Aguas Calientes",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Arrayanal",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Barrios",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Caimancito",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Calilegua",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Cangrejillos",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Caspala",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Catuá",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Cieneguillas",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Coranzulli",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Cusi-Cusi",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Aguilar",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Carmen",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Cóndor",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Fuerte",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Piquete",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "El Talar",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Fraile Pintado",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Hipólito Yrigoyen",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Huacalera",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Humahuaca",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "La Esperanza",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "La Mendieta",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "La Quiaca",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Ledesma",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Libertador Gral. San Martin",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Maimara",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Mina Pirquitas",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Monterrico",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Palma Sola",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Palpalá",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Pampa Blanca",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Pampichuela",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Perico",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Puesto del Marqués",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Puesto Viejo",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Pumahuasi",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Purmamarca",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Rinconada",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Rodeitos",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Rosario de Río Grande",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "San Antonio",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "San Francisco",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "San Pedro",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "San Rafael",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "San Salvador",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Santa Ana",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Santa Catalina",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Santa Clara",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Susques",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Tilcara",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Tres Cruces",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Tumbaya",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Valle Grande",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Vinalito",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Volcán",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Yala",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Yaví",
+        "provincia": {
+            "id": 11
+        }
+    },
+    {
+        "name": "Yuto",
+        "provincia": {
+            "id": 11
+        }
+    }
+]

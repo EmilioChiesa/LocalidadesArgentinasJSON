@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Río Grande",
+        "provincia": {
+            "id": 24
+        }
+    },
+    {
+        "name": "Tolhuin",
+        "provincia": {
+            "id": 24
+        }
+    },
+    {
+        "name": "Ushuaia",
+        "provincia": {
+            "id": 24
+        }
+    }
+]
